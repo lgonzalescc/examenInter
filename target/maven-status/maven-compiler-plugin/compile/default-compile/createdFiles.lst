@@ -1,0 +1,4 @@
+com\intercorp\examen\controller\RestController.class
+com\intercorp\examen\ExamenInterApplication.class
+com\intercorp\examen\entity\Matriz.class
+com\intercorp\examen\service\MatrizService.class
